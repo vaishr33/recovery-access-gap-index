@@ -19,7 +19,7 @@ Track all public datasets used to build the Massachusetts recovery access and ov
 | Syringe Service Programs | Mass.gov | SSP access | Point locations | Found | Public map/locator found; raw data export not yet identified. |
 | Peer Recovery Support Centers | Mass.gov | Recovery support access | Point locations | Found | Public webpage list found, organized by region. Raw download not available; will convert list to structured CSV later. |
 | SAMHSA FindTreatment.gov | SAMHSA | Treatment/MOUD access | Point locations | Downloaded | Exported 329 Massachusetts treatment facilities. CSV saved for facility data; Excel/code reference saved for service code definitions. |
-| CDC/ATSDR Social Vulnerability Index | CDC/ATSDR | Social vulnerability | Census tract/county | Not downloaded | May need aggregation to municipality |
+| CDC/ATSDR Social Vulnerability Index | CDC/ATSDR | Social vulnerability | Census tract/county | Downloaded | 2022 Massachusetts tract-level CSV saved locally in data/raw/svi/ |
 | ACS 5-year demographic data | Census | Population, poverty, no vehicle, uninsured | Tract/place | Optional | Backup if SVI is hard |
 
 ## MVP Dataset Priority
