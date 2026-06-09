@@ -54,6 +54,7 @@ Potential burden indicators include:
 - EMS naloxone administrations
 - Recent change in overdose burden over time
 - For the MVP, the primary fatal overdose burden metric will use the 2021–2023 average annual opioid-related overdose death rate by municipality. A 3-year average is used to reduce instability from small annual counts, especially in smaller municipalities.
+- EMS opioid-related incidents will be treated as an emergency response burden indicator rather than a strictly nonfatal overdose measure.
 
 ## Recovery Access Indicators
 
